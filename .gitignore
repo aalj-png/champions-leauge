@@ -1,0 +1,13 @@
+# Fichiers et dossiers à ignorer
+node_modules/
+dist/
+build/
+.DS_Store
+.env.local
+.env.*.local
+*.pem
+.vscode/
+.idea/
+.iml
+data/champions_league.db
+data/
