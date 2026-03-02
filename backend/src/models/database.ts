@@ -1,4 +1,11 @@
-import sqlite3 from 'sqlite3';
+00:40:19.741 Running build in Washington, D.C., USA (East) – iad1
+00:40:19.741 Build machine configuration: 2 cores, 8 GB
+00:40:19.884 Cloning github.com/aalj-png/champions-leauge (Branch: main, Commit: dbad68e)
+00:40:19.885 Previous build caches not available.
+00:40:20.146 Cloning completed: 262.000ms
+00:40:22.173 Running "vercel build"
+00:40:22.812 Vercel CLI 50.23.2
+00:40:23.440 Error: Cannot read properties of undefined (reading 'fsPath')import sqlite3 from 'sqlite3';
 import path from 'path';
 import fs from 'fs';
 
